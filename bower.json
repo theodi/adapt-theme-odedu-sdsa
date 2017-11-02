@@ -1,0 +1,24 @@
+{
+    "name": "adapt-theme-odedu-sdsa",
+    "repository": "git@github.com:theodi/adapt-theme-odedu-sdsa.git",
+    "framework": "^2.0.0",
+    "version": "0.5.0",
+    "homepage": "https://github.com/theodi/adapt-theme-odedu-sdsa/",
+    "issues": "https://github.com/theodi/adapt-theme-odedu-sdsa/issues",
+    "displayName": "ODEdu (SDSA)",
+    "theme": "ODEdu (SDSA)",
+    "description": "A custom theme for ODEdu modules",
+    "main": "js/odedu.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-theme"
+    ],
+    "licenodedu": "GPLv3",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
